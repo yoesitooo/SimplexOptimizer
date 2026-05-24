@@ -71,7 +71,8 @@ Se han identificado los siguientes antipatrones en la implementación actual que
 
 ## 📊 Informe de SonarQube
 
-[Sube o enlaza aquí el archivo del informe de revisión de SonarQube]
+[Informe_SonarQube_SimplexOptimizer.pdf](https://github.com/user-attachments/files/28200909/Informe_SonarQube_SimplexOptimizer.pdf)
+
 
 ---
 
