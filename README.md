@@ -69,6 +69,12 @@ Se han identificado los siguientes antipatrones en la implementación actual que
 
 ---
 
+## 📊 Informe de SonarQube
+
+[Sube o enlaza aquí el archivo del informe de revisión de SonarQube]
+
+---
+
 ## 🛠️ Instalación y Uso
 
 1. Clonar el repositorio:
